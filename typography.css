@@ -1,0 +1,13 @@
+body { font-family: Helvetica, Arial, Verdana, sans-serif; font-size: 18px; line-height: 1.5; }
+p { margin-bottom: 15px; }
+
+.entry-listing-title a { text-decoration: none; color: #231F20; }
+.entry-listing-title { font-family: Georgia, Times, "Times New Roman", serif; font-size: 22px; }
+
+.entry-title { font-size: 30px; }
+
+.comment-author, .comment-meta { font: italic 18px Georgia, Times, "Times New Roman", serif; }
+.comment-meta { font-size: 16px; text-align: right; }
+.comment-meta a, .reply a { color: #fff; text-decoration: none; }
+.comment-body { font-size: 16px; line-height: 1.6; margin-top: 15px; }
+.reply { text-align: right; }
